@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "netease-music-assistant": {
+      "source": "NetEase/skills",
+      "sourceType": "github",
+      "computedHash": "2ba637fe2ec1d069244986479d8085ff9e9c01fe06020c220971e5ea3e513a30"
+    },
+    "netease-music-cli": {
+      "source": "NetEase/skills",
+      "sourceType": "github",
+      "computedHash": "f6a25fb5184b7adba6d524e46b021c592874564e21c2616bb9914e07d4e7fa0c"
+    }
+  }
+}
